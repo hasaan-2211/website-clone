@@ -7,9 +7,10 @@
 /* main heading  */
 #m-head-h2 {
     color: #6ca7c5;
-    font-family: "Product Sans", "Google Sans", "Poppins", "Montserrat", sans-serif;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
     font-size: 40px;
     padding-left: 75px;
+    font-weight: 0px;
 }
 
 #search-box {
